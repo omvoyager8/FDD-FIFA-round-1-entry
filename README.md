@@ -12,7 +12,7 @@
 *A 5-page executive-grade sales report analyzing $11.22M+ in global merchandise revenue across regions, channels, products, and customer segments.*
 
 </div>
-![Architecture](screenshots/executive-summary.png)
+![..](screenshots/executive-summary.png)
 ---
 
 ## 📊 Overview
